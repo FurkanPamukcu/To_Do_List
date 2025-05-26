@@ -10,12 +10,14 @@ It was developed as a learning project to practice SwiftUI fundamentals and basi
 - 🌙 Light/Dark Mode support
 - 💾 Data persistence using UserDefaults
 
-## 🖼️ Screenshots
-
-![Screen](ToDoList.png)
 
 ## 🛠 Technologies Used
 
 - **SwiftUI**
 - **UserDefaults** for local data storage
 - Lightweight **MVVM** structure
+
+## 🖼️ Screenshots
+
+![Screen](ToDoList.png)
+
