@@ -1,3 +1,7 @@
+## 🖼️ Screenshots
+
+![Screen](ToDoList.png)
+
 # 📝 Simple To-Do List App
 
 This is a simple and minimalistic **To-Do List** application built with **SwiftUI**.  
@@ -17,7 +21,5 @@ It was developed as a learning project to practice SwiftUI fundamentals and basi
 - **UserDefaults** for local data storage
 - Lightweight **MVVM** structure
 
-## 🖼️ Screenshots
 
-![Screen](ToDoList.png)
 
